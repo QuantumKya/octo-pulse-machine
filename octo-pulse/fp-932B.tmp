@@ -1,4 +1,4 @@
-25657514247056394
+25648496697289791
 Adafruit_Stuff
 Adafruit_Ultimate_GPS_Breakout
 
@@ -2670,13 +2670,6 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
-0
-2
-2
-CMC_5044PF_A_MIC
-CMC-5044PF-A_CUD
-
-CMC-5044PF-A 
 0
 2
 2
@@ -66688,13 +66681,6 @@ solder jumper open
 0
 3
 3
-KY037
-KY-037 Sound Sensor
-
-
-0
-4
-4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -67913,27 +67899,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MCP4561T_DigiPot
-MSOP8_MC_MCH
-
-MCP4561T-503E/MS 
-0
-8
-8
-MCP4561T_DigiPot
-MSOP8_MC_MCH-L
-
-MCP4561T-503E/MS 
-0
-8
-8
-MCP4561T_DigiPot
-MSOP8_MC_MCH-M
-
-MCP4561T-503E/MS 
-0
-8
-8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -96053,34 +96018,6 @@ Logo WEEE
 0
 0
 0
-TMCS1108A2UQDR_Current_Sensor
-D0008A-IPC_A
-
-TMCS1108A2UQDR 
-0
-8
-8
-TMCS1108A2UQDR_Current_Sensor
-D0008A-IPC_B
-
-TMCS1108A2UQDR 
-0
-8
-8
-TMCS1108A2UQDR_Current_Sensor
-D0008A-IPC_C
-
-TMCS1108A2UQDR 
-0
-8
-8
-TMCS1108A2UQDR_Current_Sensor
-D0008A-MFG
-
-TMCS1108A2UQDR 
-0
-8
-8
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -102746,142 +102683,4 @@ varistor SIOV
 2
 2
 Varistor
-RV_Disc_D21.5mm_W4.8mm_P10mm
-Varistor, diameter 21.5mm, width 4.8mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W4.9mm_P10mm
-Varistor, diameter 21.5mm, width 4.9mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W5.1mm_P10mm
-Varistor, diameter 21.5mm, width 5.1mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W5.3mm_P10mm
-Varistor, diameter 21.5mm, width 5.3mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W5.4mm_P10mm
-Varistor, diameter 21.5mm, width 5.4mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W5.6mm_P10mm
-Varistor, diameter 21.5mm, width 5.6mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W5.8mm_P10mm
-Varistor, diameter 21.5mm, width 5.8mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W5mm_P10mm
-Varistor, diameter 21.5mm, width 5mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W6.1mm_P7.5mm
-varistor
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W6.3mm_P10mm
-Varistor, diameter 21.5mm, width 6.3mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W6.5mm_P10mm
-Varistor, diameter 21.5mm, width 6.5mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W6.7mm_P10mm
-Varistor, diameter 21.5mm, width 6.7mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W6.8mm_P10mm
-Varistor, diameter 21.5mm, width 6.8mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W7.1mm_P10mm
-Varistor, diameter 21.5mm, width 7.1mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W7.5mm_P10mm
-Varistor, diameter 21.5mm, width 7.5mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W7.9mm_P10mm
-Varistor, diameter 21.5mm, width 7.9mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W8.4mm_P10mm
-Varistor, diameter 21.5mm, width 8.4mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Disc_D21.5mm_W11.4mm_P10mm
-Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
-varistor SIOV
-0
-2
-2
-Varistor
-RV_Rect_V25S440P_L26.5mm_W8.2mm_P12.7mm
-Varistor, V25S440P, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b410c42c-51d1-460e-b1d9-d105d93c9679&filename=littelfuse-varistor-ultramov25s-datasheet
-varistor
-0
-2
-2
-Varistor
-Varistor_Panasonic_VF
-Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
-Varistor VF
-0
-2
-2
+RV_Disc_D21.5mm
