@@ -1719,7 +1719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQ-Q2K03W:EVQ-Q2K03W_PAN"
+		(property "Footprint" "B3U-1000P:B3U-1000P"
 			(at 91.44 99.06 0)
 			(effects
 				(font
@@ -1787,7 +1787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQ-P7A01P:EVQ_P7_PAN"
+		(property "Footprint" "B3U-3000P-B:SW_B3U-3000P-B_OMR"
 			(at 91.44 67.31 0)
 			(effects
 				(font
@@ -2397,7 +2397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQ-Q2K03W:EVQ-Q2K03W_PAN"
+		(property "Footprint" "B3U-1000P:B3U-1000P"
 			(at 91.44 114.3 0)
 			(effects
 				(font
@@ -2532,7 +2532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQ-Q2K03W:EVQ-Q2K03W_PAN"
+		(property "Footprint" "B3U-1000P:B3U-1000P"
 			(at 91.44 128.27 0)
 			(effects
 				(font
@@ -2600,7 +2600,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQ-Q2K03W:EVQ-Q2K03W_PAN"
+		(property "Footprint" "B3U-1000P:B3U-1000P"
 			(at 91.44 86.36 0)
 			(effects
 				(font
@@ -2906,7 +2906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQ-P7A01P:EVQ_P7_PAN"
+		(property "Footprint" "B3U-3000P-B:SW_B3U-3000P-B_OMR"
 			(at 91.44 54.61 0)
 			(effects
 				(font

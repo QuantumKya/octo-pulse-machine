@@ -1,4 +1,4 @@
-25657514247056394
+25653956801259215
 Adafruit_Stuff
 Adafruit_Ultimate_GPS_Breakout
 
@@ -20,6 +20,20 @@ audio belton reverb
 0
 7
 7
+B3U-1000P
+B3U-1000P
+
+B3U-1000P 
+0
+2
+2
+B3U-3000P-B
+SW_B3U-3000P-B_OMR
+
+B3U-3000P-B 
+0
+3
+3
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -59170,34 +59184,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-EVQ-P7A01P
-EVQ_P7_PAN
-
-EVQ-P7A01P 
-0
-4
-4
-EVQ-P7A01P
-EVQ_P7_PAN-L
-
-EVQ-P7A01P 
-0
-4
-4
-EVQ-P7A01P
-EVQ_P7_PAN-M
-
-EVQ-P7A01P 
-0
-4
-4
-EVQ-Q2K03W
-EVQ-Q2K03W_PAN
-
-EVQ-Q2K03W 
-0
-4
-4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
